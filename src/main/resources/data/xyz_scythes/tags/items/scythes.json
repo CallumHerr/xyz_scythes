@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "xyz_scythes:iron_scythe",
+    "xyz_scythes:nether_scythe",
+    "xyz_scythes:sculk_scythe",
+    "xyz_scythes:ender_scythe"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "item.xyz_scythes.iron_scythe": "Iron Scythe",
+  "item.xyz_scythes.nether_scythe": "Nether Scythe",
+  "item.xyz_scythes.sculk_scythe": "Sculk Scythe",
+  "item.xyz_scythes.ender_scythe": "Ender Scythe",
+
+  "menu.xyz_scythes.spawn": "Spawn Point",
+  "menu.xyz_scythes.overworld": "Overworld",
+  "menu.xyz_scythes.respawn_anchor": "Respawn Anchor",
+  "menu.xyz_scythes.nether": "Nether",
+  "menu.xyz_scythes.end": "End",
+  "menu.xyz_scythes.teleport_title": "Select Teleport",
+
+  "chat.xyz_scythes.portal_blocked": "Unable to open portal at: ",
+  "chat.xyz_scythes.portal_opened": "Portal opened at: ",
+  "chat.xyz_scythes.teleported": "Teleport Successful."
+}
