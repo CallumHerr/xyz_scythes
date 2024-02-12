@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "minecraft:grass",
+    "minecraft:tall_grass",
     "#minecraft:flowers"
   ]
 }

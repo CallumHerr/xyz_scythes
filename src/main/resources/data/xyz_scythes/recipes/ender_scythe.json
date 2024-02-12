@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:end_rod"
+    },
+    "X": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "F": {
+      "item": "minecraft:ender_pearl"
+    },
+    "S": {
+      "item": "xyz_scythes:blood_scythe"
+    }
+  },
+  "pattern": [
+    "SXF",
+    "X #",
+    "  #"
+  ],
+  "result": {
+    "item": "xyz_scythes:ender_scythe"
+  },
+  "show_notification": true
+}

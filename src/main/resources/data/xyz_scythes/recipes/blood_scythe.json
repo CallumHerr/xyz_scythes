@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:weeping_vines"
+    },
+    "X": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "F": {
+      "item": "minecraft:dragon_breath"
+    },
+    "S": {
+      "item": "xyz_scythes:sculk_scythe"
+    }
+  },
+  "pattern": [
+    "SXF",
+    "X #",
+    "  #"
+  ],
+  "result": {
+    "item": "xyz_scythes:blood_scythe"
+  },
+  "show_notification": true
+}

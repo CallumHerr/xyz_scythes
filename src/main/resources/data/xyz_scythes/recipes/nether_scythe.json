@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_rod"
+    },
+    "X": {
+      "item": "minecraft:gold_ingot"
+    },
+    "F": {
+      "item": "minecraft:fire_charge"
+    },
+    "S": {
+      "item": "xyz_scythes:iron_scythe"
+    }
+  },
+  "pattern": [
+    "SXF",
+    "X #",
+    "  #"
+  ],
+  "result": {
+    "item": "xyz_scythes:nether_scythe"
+  },
+  "show_notification": true
+}

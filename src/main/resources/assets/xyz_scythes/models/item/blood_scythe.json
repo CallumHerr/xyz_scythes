@@ -1,0 +1,6 @@
+{
+  "parent": "xyz_scythes:item/scythe",
+  "textures": {
+    "layer0": "xyz_scythes:item/blood_scythe"
+  }
+}

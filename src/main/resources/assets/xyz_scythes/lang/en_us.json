@@ -3,6 +3,17 @@
   "item.xyz_scythes.nether_scythe": "Nether Scythe",
   "item.xyz_scythes.sculk_scythe": "Sculk Scythe",
   "item.xyz_scythes.ender_scythe": "Ender Scythe",
+  "item.xyz_scythes.blood_scythe": "Blood Scythe",
+
+  "tooltip.xyz_scythes.iron_right": "Right click to clear foliage",
+  "tooltip.xyz_scythes.nether_right": "Right click to shoot a fireball",
+  "tooltip.xyz_scythes.nether_shift": "Shift+Right click to shoot a bigger fireball",
+  "tooltip.xyz_scythes.sculk_right": "Right click to shoot a sonic blast",
+  "tooltip.xyz_scythes.sculk_shift": "Shift+Right click to detect all entities around you",
+  "tooltip.xyz_scythes.ender_right": "Right click to throw an ender pearl",
+  "tooltip.xyz_scythes.ender_shift": "Shift+Right click to open teleport menu",
+  "tooltip.xyz_scythes.blood_right": "Right click to shoot blood projectile (Transfers effects)",
+  "tooltip.xyz_scythes.blood_shift": "Shift+Right click to pull entities towards you",
 
   "menu.xyz_scythes.spawn": "Spawn Point",
   "menu.xyz_scythes.overworld": "Overworld",

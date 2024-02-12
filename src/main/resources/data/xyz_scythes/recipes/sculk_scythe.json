@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:echo_shard"
+    },
+    "X": {
+      "item": "minecraft:diamond"
+    },
+    "F": {
+      "item": "minecraft:sculk_shrieker"
+    },
+    "S": {
+      "item": "xyz_scythes:iron_scythe"
+    }
+  },
+  "pattern": [
+    "SXF",
+    "X #",
+    "  #"
+  ],
+  "result": {
+    "item": "xyz_scythes:sculk_scythe"
+  },
+  "show_notification": true
+}
