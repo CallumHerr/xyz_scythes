@@ -8,9 +8,7 @@ import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.NetherPortalBlock;
 import net.minecraft.world.level.block.state.BlockState;
-import net.minecraftforge.network.NetworkEvent;
-
-import java.util.function.Supplier;
+import net.minecraftforge.event.network.CustomPayloadEvent;
 
 public class CreateNetherPortalPacket {
     private BlockPos pos;
@@ -30,8 +28,7 @@ public class CreateNetherPortalPacket {
         buf.writeBoolean(this.xFacing);
     }
 
-    public boolean handler(Supplier<NetworkEvent.Context> supplier) {
-        NetworkEvent.Context context = supplier.get();
+    public boolean handler(CustomPayloadEvent.Context context) {
         context.enqueueWork(() -> {
             ServerPlayer player = context.getSender();
             ServerLevel level = (ServerLevel) player.level();
@@ -46,4 +43,5 @@ public class CreateNetherPortalPacket {
         });
         return true;
     }
+
 }

@@ -24,5 +24,6 @@
 
   "chat.xyz_scythes.portal_blocked": "Unable to open portal at: ",
   "chat.xyz_scythes.portal_opened": "Portal opened at: ",
-  "chat.xyz_scythes.teleported": "Teleport Successful."
+  "chat.xyz_scythes.teleported": "Teleport Successful.",
+  "chat.xyz_scythes.spawn_blocked": "Unable to find valid spawn point."
 }
